@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cata"]
+	path = cata
+	url = https://github.com/cran/cata
+	shallow = true
+	registered = true
+[submodule "tempR"]
+	path = tempR
+	url = https://github.com/cran/tempR
+	shallow = true
+	registered = true
